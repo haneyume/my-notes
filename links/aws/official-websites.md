@@ -1,5 +1,7 @@
 # Official Websites
 
+{% embed url="https://codecatalyst.aws/explore" %}
+
 {% embed url="https://www.aws.training/certification/?cta=eptopbanner" %}
 
 {% embed url="https://explore.skillbuilder.aws/learn" %}

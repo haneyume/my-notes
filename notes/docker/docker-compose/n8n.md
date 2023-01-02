@@ -2,7 +2,7 @@
 
 ## Official Doc
 
-https://docs.n8n.io/hosting/installation/docker/
+{% embed url="https://docs.n8n.io/hosting/installation/docker/" %}
 
 ## Docker Compose
 

@@ -2,7 +2,7 @@
 
 ## Official Doc
 
-https://hasura.io/docs/latest/getting-started/docker-simple/
+{% embed url="https://hasura.io/docs/latest/getting-started/docker-simple/" %}
 
 ## Docker Compose
 

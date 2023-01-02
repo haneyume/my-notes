@@ -2,7 +2,7 @@
 
 ## Official Doc
 
-https://labelstud.io/guide/install.html#Install-with-Docker
+{% embed url="https://labelstud.io/guide/install.html#Install-with-Docker" %}
 
 ## Docker Compose
 

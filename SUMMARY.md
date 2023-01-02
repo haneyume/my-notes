@@ -40,5 +40,7 @@
     * [Design System](links/tools/design-system.md)
     * [Tailwind](links/tools/tailwind.md)
     * [Flutter](links/tools/flutter.md)
+    * [Open Source](links/tools/open-source.md)
+    * [Foundations](links/tools/foundations.md)
   * [🚌 Social](links/social.md)
   * [😂 Other Links](links/other-links.md)

@@ -2,7 +2,7 @@
 
 ## Official Doc
 
-https://min.io/docs/minio/container/operations/install-deploy-manage/deploy-minio-single-node-single-drive.html
+{% embed url="https://min.io/docs/minio/container/operations/install-deploy-manage/deploy-minio-single-node-single-drive.html" %}
 
 ## Docker Compose
 

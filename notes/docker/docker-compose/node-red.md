@@ -2,7 +2,7 @@
 
 ## Official Doc
 
-https://nodered.org/docs/getting-started/docker
+{% embed url="https://nodered.org/docs/getting-started/docker" %}
 
 ## Docker Compose
 

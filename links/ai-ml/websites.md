@@ -7,7 +7,3 @@
 {% embed url="https://huggingface.co/" %}
 
 {% embed url="https://www.kaggle.com/" %}
-
-{% embed url="https://galactica.org/explore/" %}
-
-{% embed url="https://knowyourdata-tfds.withgoogle.com" %}

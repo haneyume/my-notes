@@ -1,4 +1,4 @@
-# 🍄 My Notes
+# 🏡 Home
 
 {% embed url="https://aws.amazon.com/tw/" %}
 

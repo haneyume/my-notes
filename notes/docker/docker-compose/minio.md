@@ -1,10 +1,10 @@
 # MinIO
 
-## Official Doc
+## 🔥 Official Doc
 
 {% embed url="https://min.io/docs/minio/container/operations/install-deploy-manage/deploy-minio-single-node-single-drive.html" %}
 
-## Docker Compose
+## 🔥 Docker Compose
 
 ```yaml
 version: "3.3"

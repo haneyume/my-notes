@@ -1,10 +1,10 @@
 # Hasura
 
-## Official Doc
+## 🔥 Official Doc
 
 {% embed url="https://hasura.io/docs/latest/getting-started/docker-simple/" %}
 
-## Docker Compose
+## 🔥 Docker Compose
 
 ```yaml
 version: "3.3"

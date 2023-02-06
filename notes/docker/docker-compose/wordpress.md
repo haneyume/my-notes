@@ -1,6 +1,6 @@
 # WordPress
 
-## Docker Compose
+## 🔥 Docker Compose
 
 ```yaml
 version: "3.3"

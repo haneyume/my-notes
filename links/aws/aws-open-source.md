@@ -6,3 +6,4 @@
 
 {% embed url="https://anywhere.eks.amazonaws.com" %}
 
+{% embed url="https://awslabs.github.io/aws-lambda-powertools-typescript/latest/" %}

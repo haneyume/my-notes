@@ -1,10 +1,10 @@
 # n8n
 
-## Official Doc
+## 🔥 Official Doc
 
 {% embed url="https://docs.n8n.io/hosting/installation/docker/" %}
 
-## Docker Compose
+## 🔥 Docker Compose
 
 ```yaml
 version: "3.3"

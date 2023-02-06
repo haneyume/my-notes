@@ -1,10 +1,10 @@
 # Label Studio
 
-## Official Doc
+## 🔥 Official Doc
 
 {% embed url="https://labelstud.io/guide/install.html#Install-with-Docker" %}
 
-## Docker Compose
+## 🔥 Docker Compose
 
 ```yaml
 version: "3.3"

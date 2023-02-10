@@ -13,3 +13,8 @@
 {% embed url="https://sme.moeasmea.gov.tw/startup/" %}
 
 {% embed url="https://startuptaiwan.org" %}
+
+{% embed url="https://www.yourator.co/" %}
+
+{% embed url="https://www.cakeresume.com/" %}
+
